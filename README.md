@@ -1,5 +1,7 @@
 # 🔐 Cyberattack Detection & Classification Using Machine Learning
 
+Execution work can be checked: [Kaggle_Workbook](https://www.kaggle.com/code/arshathulmohamedhaqb/detecting-and-classifying-cyberattacks-with-ml)
+
 This project presents a machine learning pipeline for detecting and classifying cyberattacks based on real-world network traffic data. The ML model can accurately distinguish between **normal traffic** and **14 different cyberattack types** using supervised learning techniques.
 
 This project presents a complete machine learning pipeline for detecting and classifying cyberattacks using network traffic data, implemented and documented through a detailed Jupyter Notebook and GitHub repository. The workflow includes data preprocessing, visualization, handling class imbalance, training multiple models for binary and multiclass classification, performance evaluation, and hyperparameter tuning—demonstrating an end-to-end approach to building a practical, intelligent intrusion detection system.
